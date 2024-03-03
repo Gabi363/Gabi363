@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am a student of AGH in Kraków. I am studying Information and Technology.
+I'm Gabi, a student of Computer Science and Intelligent Systems at AGH UST in Kraków.
